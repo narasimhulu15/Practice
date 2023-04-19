@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class RandumNumbersString {
+public class RandoumNumbersString {
 
     public static void main(String[] args)
     {
